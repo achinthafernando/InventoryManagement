@@ -1,0 +1,33 @@
+﻿[
+  {
+    "id": "100",
+    "size": {
+      "h": 30,
+      "w": 28
+    },
+    "name": "Slim fit jeans",
+    "color": "Washed",
+    "category": "Pants"
+  },
+  {
+    "id": "200",
+    "size": 37,
+    "name": "Summer heels",
+    "color": "White",
+    "category": "Shoes"
+  },
+  {
+    "id": "201",
+    "size": 38,
+    "name": "Summer heels",
+    "color": "Black",
+    "category": "Shoes"
+  },
+  {
+    "id": "300",
+    "size": "XS",
+    "name": "Oversized tee",
+    "color": "Beige",
+    "category": "Shirt"
+  }
+]
